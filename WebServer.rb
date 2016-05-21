@@ -45,7 +45,7 @@ end
 get "/batti" do
   File.read("data.txt")
 end
-#yo baby Yo
+#yo baby Yo123
 
 get '/ali' do
   "ali rox"
